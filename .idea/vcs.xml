@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/my-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pizza" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-hooks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-counter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux-course-2020" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redux_counter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/to-do" vcs="Git" />
+  </component>
+</project>
